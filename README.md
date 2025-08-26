@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📈 GitHub Stats
-![Animesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Animesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=animeshchandra-121&show_icons=true&theme=radical)  
 
 ---
 

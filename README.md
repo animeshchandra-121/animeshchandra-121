@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile) | [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/animeshchandra232003/)
 
 ---
 

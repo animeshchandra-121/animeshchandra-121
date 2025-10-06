@@ -65,5 +65,6 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://github.com/animeshchandra-121/animeshchandra-121/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
+

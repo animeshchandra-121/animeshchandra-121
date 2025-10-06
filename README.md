@@ -55,16 +55,8 @@
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=animeshchandra-121&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
-       height="200px" 
-  />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshchandra-121&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
-       height="200px" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshchandra-121&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 ---
 

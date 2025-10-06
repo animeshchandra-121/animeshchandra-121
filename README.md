@@ -57,16 +57,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshchandra-121&theme=tokyonight&hide_border=true&border_radius=10" />
+<br>
 <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshchandra-121&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
        height="200px" 
   />
-</p>
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/animeshchandra-121/animeshchandra-121/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 

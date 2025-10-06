@@ -55,7 +55,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshchandra-121&theme=tokyonight&hide_border=true&border_radius=10" />
 <br>
 <img 
